@@ -35,6 +35,10 @@ def faraday_law_mass(current_A, time_s):
     
     Returns theoretical mass in grams.
     """
+    if current_A <= 0:
+        raise ValueError("Current must be positive.")
+    if time_s <= 0:
+        raise ValueError("Time must be positive.")
     return (current_A * time_s * M_Cu) / (VALENCE * FARADAY)
 
 def experimental_moles(mass_g):
