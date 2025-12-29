@@ -77,5 +77,5 @@ To demonstrate the principles of electrolysis, metal purification, and Faraday's
 - Wipe down the work area.
 
 ## Notes
-- If the current density is too high (e.g., > 2 A dm⁻²), the anode may form a black coating of copper(II) oxide (CuO) or copper(I) oxide (Cu₂O) instead of dissolving cleanly. To avoid this, keep the current below 1 A for electrodes of the size recommended.
+- If the current density is too high (e.g., > 2 A dm⁻²), the anode may form a black coating of copper(II) oxide (CuO) or copper(I) oxide (Cu₂O) instead of dissolving cleanly. This side reaction reduces the current efficiency for copper dissolution and may lead to a black coating on the anode. To avoid this, keep the current below 1 A for electrodes of the size recommended.
 - The experiment can be repeated with different currents or times to investigate the relationship between charge passed and mass change (Faraday’s law).
